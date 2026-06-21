@@ -1,0 +1,41 @@
+Author,N,non-infection/ICI,ALT,N1,non-infection/control,ALT1,OR,L,U,Combination,Regimen,Cancertype,TypeICI,stage2,Patientslocation
+Fang,49,112,161,33,128,161,1.484848,1.011859,2.178935,ICI plus chemo vs chemo,ICI plus chemo vs chemo,NSCLC,PD-1 inhibit,Advanced,China
+Yau,1,366,367,5,358,363,0.1978202,0.02322417,1.685004,ICI vs targeted,ICI vs targeted,Hepatocellular carcinoma,PD-1 inhibit,Advanced,Multiple regions
+Allaf,20,346,366,8,379,387,2.643443,1.179046,5.926648,ICI vs placebo,ICI vs placebo,Renal cell carcinoma,PD-1 inhibit,Perioperative setting,Multiple regions
+Wu,1,336,337,5,151,156,0.0925816,0.01090721,0.785843,ICI vs chemo,ICI vs chemo,NSCLC,PD-1 inhibit,Advanced,Multiple regions
+Kato,2,207,209,6,202,208,0.3317384,0.06773266,1.624776,ICI vs chemo,ICI vs chemo,Esophageal Squamous Cell Carcinoma ,PD-1 inhibit,Advanced,Multiple regions
+Goldman_Durva,27,238,265,22,244,266,1.231904,0.7203205,2.106822,ICI plus chemo vs chemo,ICI plus chemo vs chemo,SCLC,PD-L1 inhibit,Advanced,Multiple regions
+Goldman_Durva+Treme,41,225,266,22,244,266,1.863636,1.142492,3.039968,ICI plus chemo vs chemo,ICI plus chemo vs chemo,SCLC,PD-1/PD-L1 plus CTLA-4 inhibit,Advanced,Multiple regions
+Kang,11,348,359,11,347,358,0.9972145,0.4379658,2.270581,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Gastric cancer/Gastroesophageal junction cancer/Oesophageal adenocarcinoma,PD-1 inhibit,Advanced,Multiple regions
+Zhou,43,277,320,21,138,159,1.017411,0.6258482,1.653955,ICI plus chemo vs chemo,ICI plus chemo vs chemo,NSCLC,PD-L1 inhibit,Advanced,China
+Zheng,6,121,127,0,125,125,6.891473,0.8601318,55.21525,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Esophageal Squamous Cell Carcinoma ,PD-1 inhibit,Perioperative setting,China
+Gogishvili,68,244,312,27,126,153,1.235043,0.8264766,1.845582,ICI plus chemo vs chemo,ICI plus chemo vs chemo,NSCLC,PD-1 inhibit,Advanced,Multiple regions
+Xu,21,303,324,18,303,321,1.155864,0.627818,2.12804,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Esophageal Squamous Cell Carcinoma ,PD-1 inhibit,Advanced,Multiple regions
+Monk,119,210,329,65,269,334,1.858592,1.431407,2.413267,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Ovarian cancer,PD-L1 inhibit,Advanced,Multiple regions
+Ren,14,157,171,16,98,114,0.5833333,0.2964129,1.147986,ICI plus chemo vs chemo,ICI plus chemo vs chemo,NSCLC,PD-1 inhibit,Advanced,China
+Shi,10,134,144,19,111,130,0.4751462,0.2294141,0.9840892,ICI vs chemo,ICI vs chemo,NSCLC,PD-1 inhibit,Advanced,China
+Barlesi,3,390,393,32,333,365,0.08707061,0.02689297,0.2819061,ICI vs chemo,ICI vs chemo,NSCLC,PD-L1 inhibit,Advanced,Multiple regions
+Zhou,71,463,534,36,222,258,0.9528714,0.656557,1.382917,ICI vs chemo,ICI vs chemo,NSCLC,PD-1 inhibit,Advanced,Multiple regions
+Lu,4,141,145,5,146,151,0.8331034,0.2282064,3.041376,ICI plus chemo vs chemo,ICI plus chemo vs chemo,NSCLC,PD-1 inhibit,Advanced,China
+Huang,2,226,228,8,212,220,0.2412281,0.05179731,1.123436,ICI vs chemo,ICI vs chemo,Esophageal Squamous Cell Carcinoma ,PD-1 inhibit,Advanced,China
+Pujade_Ave+chemo,14,168,182,12,165,177,1.134615,0.5398381,2.3847,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Ovarian cancer,PD-L1 inhibit,Advanced,Multiple regions
+Pujade_Ave,7,180,187,12,165,177,0.552139,0.2224221,1.370626,ICI vs chemo,ICI vs chemo,Ovarian cancer,PD-L1 inhibit,Advanced,Multiple regions
+Lee,54,294,348,47,297,344,1.13573,0.7911973,1.630292,ICI plus chemo vs chemo,ICI plus chemo vs chemo,HNSCC,PD-L1 inhibit,Locally advanced undergoing radiotherapy,Multiple regions
+Qin,8,254,262,4,121,125,0.9541985,0.2928568,3.10901,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Esophageal Squamous Cell Carcinoma ,PD-1 inhibit,Perioperative setting,China
+Monk,48,337,385,38,346,384,1.259877,0.8433143,1.882204,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Cervical cancer,PD-L1 inhibit,Locally advanced undergoing radiotherapy,Multiple regions
+Horn,6,192,198,6,190,196,0.989899,0.3248497,3.016472,ICI plus chemo vs chemo,ICI plus chemo vs chemo,SCLC,PD-L1 inhibit,Advanced,Multiple regions
+Felip,136,359,495,85,410,495,1.6,1.257765,2.035356,ICI vs placebo,ICI vs placebo,NSCLC,PD-L1 inhibit,Perioperative setting,Multiple regions
+Cohen,14,232,246,40,194,234,0.3329268,0.1860835,0.5956481,ICI vs chemo,ICI vs chemo,HNSCC,PD-1 inhibit,Advanced,Multiple regions
+O'Brien,129,451,580,112,469,581,1.153772,0.9208568,1.445598,ICI vs placebo,ICI vs placebo,NSCLC,PD-1 inhibit,Perioperative setting,Multiple regions
+Bellmunt,105,161,266,94,161,255,1.070829,0.8602463,1.33296,ICI vs chemo,ICI vs chemo,Urothelial carcinoma,PD-1 inhibit,Advanced,Multiple regions
+Lorusso,106,422,528,81,449,530,1.313599,1.009865,1.708685,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Cervical cancer,PD-1 inhibit,Advanced,Multiple regions
+Wang,10,220,230,4,228,232,2.521739,0.8023818,7.925365,ICI plus chemo vs chemo,ICI plus chemo vs chemo,SCLC,PD-L1 inhibit,Advanced,China
+Ferris,37,199,236,21,90,111,0.8286925,0.5098829,1.346841,ICI vs chemo,ICI vs chemo,HNSCC,PD-1 inhibit,Advanced,Multiple regions
+Powles_Durva,8,337,345,18,295,313,0.4032206,0.1778282,0.9142917,ICI vs chemo,ICI vs chemo,Urothelial carcinoma,PD-L1 inhibit,Advanced,Multiple regions
+Powles_Durva+Treme,7,333,340,18,295,313,0.3580065,0.1515785,0.8455596,ICI vs chemo,ICI vs chemo,Urothelial carcinoma,PD-1/PD-L1 plus CTLA-4 inhibit,Advanced,Multiple regions
+Zimmer,8,48,56,4,47,51,1.821429,0.5832759,5.687878,ICI vs placebo,ICI vs placebo,Melanoma,PD-1 inhibit,Perioperative setting,Germany
+Zimmer_Nivo+IPI,4,51,55,4,47,51,0.9272727,0.2446237,3.514928,ICI vs placebo,ICI vs placebo,Melanoma,PD-1/PD-L1 plus CTLA-4 inhibit,Perioperative setting,Germany
+Reck,6,472,478,4,472,476,1.493724,0.4242126,5.259653,ICI plus chemo vs chemo,ICI plus chemo vs chemo,SCLC,CTLA-4 inhibit,Advanced,Multiple regions
+Socinski,19,374,393,11,383,394,1.731668,0.835078,3.59089,ICI plus chemo vs chemo,ICI plus chemo vs chemo,NSCLC,PD-L1 inhibit,Advanced,Multiple regions
+Yang,15,119,134,9,120,129,1.604478,0.7279983,3.536201,ICI plus chemo vs chemo,ICI plus chemo vs chemo,Nasopharyngeal carcinoma ,PD-1 inhibit,Advanced,China
+Kelley,12,417,429,5,390,395,2.20979,0.7855268,6.216431,ICI vs targeted,ICI vs targeted,Hepatocellular carcinoma,PD-L1 inhibit,Advanced,Multiple regions

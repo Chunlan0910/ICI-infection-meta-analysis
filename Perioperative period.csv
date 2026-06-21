@@ -1,0 +1,16 @@
+Author,Year,AEtype,N,non-infection/ICI,ALT,N1,non-infection/control,ALT1,OR,L,U
+Zheng,2024,Surgery-related infections,79,23,102,58,50,108,1.442191,1.176014,1.768613
+Lu,2024,Neoadjuvant infections,43,159,202,36,166,202,1.194444,0.8026554,1.777472
+Lu,2024,Postoperative infections,27,139,166,22,126,148,1.256846,0.7466752,2.115593
+Chen,2024,Postoperative infections,99,123,222,64,155,219,1.525971,1.184929,1.965172
+Qin_subgroup1,2024,Surgery-related infections,14,100,114,18,85,103,0.702729,0.3684666,1.340225
+Qin_subgroup1,2024,Surgery-related infections,24,92,116,18,85,103,1.183908,0.682699,2.053084
+Qin_subgroup1,2024,Neoadjuvant infections,8,124,132,4,121,125,1.893939,0.5848498,6.13321
+Qin_subgroup1,2024,Neoadjuvant infections,4,126,130,4,121,125,0.9615385,0.2458022,3.761383
+Pal,2022,Postoperative infections,76,314,390,56,327,383,1.332784,0.9725863,1.826381
+Felip,2023,Postoperative infections,136,359,495,85,410,495,1.6,1.257765,2.035356
+Choueiri,2021,Postoperative infections,22,466,488,12,484,496,1.863388,0.9325813,3.72323
+Wakelee,2024,Surgery-related infections,14,311,325,20,297,317,0.6827692,0.3510467,1.327954
+Janjigian,2025,Surgery-related infections,7,468,475,4,465,469,1.727895,0.509183,5.863551
+Yue,2025,Surgery-related infections,23,167,190,16,157,173,1.308882,0.7155298,2.394269
+Mitsudomi,2025,Surgery-related infections,16,280,296,14,287,301,1.162162,0.5776248,2.338232

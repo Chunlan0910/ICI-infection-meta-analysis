@@ -1,0 +1,56 @@
+Author,N,non-infection/ICI,ALT,N1,non-infection/control,ALT1,OR,L,U,,Cancertype,Regimen
+Peters,12,66,78,3,72,75,3.846154,1.130036,13.09064,18,SCLC,ICI vs placebo
+Ree,5,33,38,5,33,38,1,0.315,3.174608,21,Colorectal cancer,ICI plus chemo vs chemo
+Borghaei,10,277,287,15,253,268,0.622532,0.284616,1.361645,35,NSCLC,ICI vs chemo
+Chan,10,106,116,9,103,112,1.072797,0.452917,2.541067,37,Nasopharyngeal carcinoma ,ICI vs chemo
+Li,9,344,353,1,181,182,4.640227,0.592442,36.34396,43,Esophageal Squamous Cell Carcinoma ,ICI plus chemo vs chemo
+Xu,14,310,324,16,305,321,0.866898,0.430281,1.746561,45,Esophageal Squamous Cell Carcinoma ,ICI plus chemo vs chemo
+Lu,30,172,202,24,178,202,1.25,0.758099,2.061075,51,NSCLC,ICI plus chemo vs chemo
+Lu,15,312,327,18,314,332,0.846075,0.433815,1.650111,50,Esophageal Squamous Cell Carcinoma ,ICI plus chemo vs chemo
+Wang,2,306,308,0,156,156,1.529032,0.1603407,14.58107,46有交叉,NSCLC,ICI plus chemo vs chemo
+Zhou,25,154,179,17,161,178,1.462373,0.818641,2.612297,48,NSCLC,ICI plus chemo vs chemo
+Tewari,15,285,300,8,282,290,1.8125,0.780314,4.210044,54,Cervical cancer,ICI vs chemo
+Liu,2,207,209,1,214,215,2.057416,0.187967,22.51966,56,Nasopharyngeal carcinoma ,ICI plus chemo vs chemo
+Gandhi,9,285,294,1,144,145,4.438776,0.567766,34.70222,87,NSCLC,ICI plus chemo vs chemo
+Wang,15,242,257,12,245,257,1.25,0.596899,2.617696,81,Esophageal Squamous Cell Carcinoma ,ICI vs chemo
+Chen,5,217,222,2,217,219,2.466216,0.483594,12.57712,79,Breast cancer,ICI plus chemo vs chemo
+Westin,7,228,235,11,225,236,0.639072,0.252079,1.620178,75,Endometrial Cancer,ICI plus chemo vs chemo
+Socinski,43,432,475,18,216,234,1.176842,0.694429,1.994384,74,NSCLC,ICI vs placebo
+Lu,25,310,335,19,308,327,1.284368,0.721458,2.286482,72,NSCLC,ICI vs chemo
+Mittendorf,5,159,164,0,167,167,6.072289,0.739034,49.89313,68,Breast cancer,ICI plus chemo vs chemo
+Antonia,53,422,475,21,213,234,1.243308,0.7689288,2.010349,66,NSCLC,ICI vs placebo
+André,1,152,153,4,139,143,0.23366,0.026428,2.065904,65,Colorectal cancer,ICI vs chemo
+Pal,14,376,390,12,371,383,1.145726,0.5368591,2.445128,64,Renal cell carcinoma,ICI vs placebo
+Herbst,13,273,286,21,242,263,0.5692641,0.2909712,1.113724,63,NSCLC,ICI vs chemo
+Antoniotti,4,138,142,1,71,72,2.028169,0.2308958,17.81526,62,Colorectal cancer,ICI plus chemo vs chemo
+Schmid,49,404,453,23,414,437,2.055188,1.274701,3.313559,61,Breast cancer,ICI plus chemo vs chemo
+Galsky,36,417,453,37,353,390,0.837659,0.540339,1.298579,58,Urothelial carcinoma,ICI plus chemo vs chemo
+Oaknin,14,191,205,15,184,199,0.906016,0.449125,1.827701,57,Cervical cancer,ICI plus chemo vs chemo
+Rudin,16,207,223,11,212,223,1.454545,0.690589,3.063622,88,SCLC,ICI plus chemo vs chemo
+Moore,47,595,642,25,619,644,1.885857,1.175479,3.025536,91,Ovarian cancer,ICI plus chemo vs chemo
+Colombo,30,277,307,29,280,309,1.041222,0.640845,1.69174,94,Cervical cancer,ICI plus chemo vs chemo
+Langer,3,56,59,1,61,62,3.152542,0.33731,29.46409,97,NSCLC,ICI plus chemo vs chemo
+Shitara,11,388,399,5,495,500,1.837928,0.6863385,4.921741,100,Gastric cancer/Gastroesophageal junction cancer/Oesophageal adenocarcinoma,ICI plus chemo vs chemo
+Long,14,479,493,8,478,486,1.725152,0.730315,4.07516,102,Melanoma,ICI vs placebo
+Powles_Pem+chemo,100,249,349,56,286,342,1.749898,1.307863,2.341332,104,Urothelial carcinoma,ICI plus chemo vs chemo
+Powles_Pem,73,229,302,56,286,342,1.491042,1.091765,2.036339,104,Urothelial carcinoma,ICI plus chemo vs chemo
+Wakelee,10,386,396,9,390,399,1.119529,0.459851,2.725547,109,NSCLC,ICI plus chemo vs chemo
+Machiels,149,249,398,124,274,398,1.201613,0.990171,1.458206,113未,HNSCC,ICI plus chemo vs chemo
+Wu,16,210,226,11,208,219,1.409493,0.669237,2.96856,114,Cervical cancer,ICI plus chemo vs chemo
+Emens,10,122,132,6,62,68,0.858586,0.325823,2.262485,115未,Breast cancer,ICI plus chemo vs chemo
+Herbst,6,676,682,9,300,309,0.304734,0.109424,0.848647,119未,NSCLC,ICI vs chemo
+Galsky,4,51,55,0,52,52,4.736842,0.57167,39.24936,117,Urothelial carcinoma,ICI vs placebo
+Kwon,47,346,393,22,374,396,2.152672,1.323141,3.502269,120,Prostate cancer,ICI vs placebo
+West,253,220,473,86,146,232,1.442942,1.196186,1.740601,122,NSCLC,ICI plus chemo vs chemo
+Eng_Ate+TKI,14,165,179,6,84,90,1.173184,0.466492,2.950453,123,Melanoma,ICI vs placebo
+Eng_Ate,2,88,90,6,84,90,0.333333,0.069111,1.607729,124,Colorectal cancer,ICI vs targeted
+Loibl,5,87,92,4,78,82,1.11413,0.309563,4.00981,127,Breast cancer,ICI plus chemo vs chemo
+Powles,28,316,344,15,330,345,1.872093,1.018118,3.442363,128,Urothelial carcinoma,ICI plus chemo vs chemo
+Mai,24,122,146,13,130,143,1.808219,0.9588643,3.409926,135再看看,Nasopharyngeal carcinoma ,ICI plus chemo vs chemo
+Cheng,15,207,222,7,209,216,2.084942,0.867057,5.013495,136,SCLC,ICI plus chemo vs chemo
+Ren,12,368,380,5,180,185,1.168421,0.417808,3.267547,138,Hepatocellular carcinoma,ICI vs targeted
+Finn,6,323,329,2,154,156,1.422492,0.290387,6.96823,139,Hepatocellular carcinoma,ICI vs targeted
+Janjigian,222,253,475,209,260,469,1.074624,0.9396792,1.228948,144,Gastric cancer/Gastroesophageal junction cancer/Oesophageal adenocarcinoma,ICI plus chemo vs chemo
+Sangro,13,141,154,5,195,200,3.376623,1.23009,9.268907,145,Hepatocellular carcinoma,ICI vs placebo
+Sangro,10,222,232,5,195,200,1.724138,0.599284,4.960337,145,Hepatocellular carcinoma,ICI vs placebo
+Mitsudomi,4,292,296,5,296,301,0.8135135,0.2206064,2.999932,150,NSCLC,ICI plus chemo vs chemo
